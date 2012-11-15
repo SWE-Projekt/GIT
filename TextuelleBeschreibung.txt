@@ -1,3 +1,7 @@
+
+Weil ich jetzt auch meinem eigenen Branch bin, kann ich jetzt soviel ändern wie ich will,
+ohne irgendwas kaputt zu machen, hahahahaha!
+
 GIT   Use – Case Szenarien
 Use Case: 			Clone Repository
 Kurzbeschreibung: 	Der Programmierer kopiert sämtliche Daten des Repositories auf seinen lokalen Rechner.
