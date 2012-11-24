@@ -1,3 +1,0 @@
-LATEX + TEXMAKER installieren
-
-Hilfe: http://latex.mschroeder.net/#abstand
