@@ -6,6 +6,8 @@
 \setlength{\parindent}{0cm}
 \usepackage[]{graphicx}
 \usepackage{xcolor}
+%---Seitenränder einstellen-----------------------------------------------------------
+\usepackage[left=30mm,right=25mm,top=25mm,bottom=25mm]{geometry}
 
 %---Kopf- und Fusszeile---------------------------------------------------------------
 \usepackage{fancyhdr}
@@ -30,7 +32,6 @@
 %Glossar update Info. -> Benutzer/in -> Eigene Befehle -> Eigene Befehle editieren
 % --> makeindex -s %.ist -t %.glg -o %.gls %.glo
 % und unter -> Option -> Texmaker konfigurieren -> Makeindex Verweis aktualisieren!
-
 
 \newglossaryentry{merge}{name=merge,description={engl. zusammenführen}}
 
@@ -64,9 +65,8 @@
 	FERTIGSTELLUNG BIS 09.12.!!!!!!!!!!! 
 	und wehe nicht!!!!!!!!!!!!!\\
 	- PDF vollenden (gemeinsame Punkte bearbeiten)\\
-	- Präsentation fertigstellen (16.12. / 22.12.)\\
+	- Präsentation fertigstellen (16.12. / 22.12.)
 }
-
 %---Erster Punkt--------------------------------------------------------------------
 \section{\underline{Einführung und Ziel der Arbeit}}
 
@@ -76,15 +76,6 @@
 ...mit einem \gls{merge} kann man .....
 
 	\textbf{Sami ab hier gehts los...}
-	
-%---Bsp. um Text einzurücken (optional)--------------------------------------------	
-\par
-\begingroup
-\leftskip=1,1cm 
-\noindent GIT ist ein Software zur Versionsverwaltung....
-\par
-\endgroup
-%----------------------------------------------------------------------------------
 	
 \subsection{Ziel}
 	Sami...
