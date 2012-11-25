@@ -1,3 +1,8 @@
-\glossaryentry{merge?\glossaryentryfield{merge}{\glsnamefont{merge}}{engl. zusammenführen}{\relax }|setentrycounter[]{page}\glsnumberformat}{2}
-\glossaryentry{merge?\glossaryentryfield{merge}{\glsnamefont{merge}}{engl. zusammenführen}{\relax }|setentrycounter[]{page}\glsnumberformat}{3}
-\glossaryentry{merge?\glossaryentryfield{merge}{\glsnamefont{merge}}{engl. zusammenführen}{\relax }|setentrycounter[]{page}\glsnumberformat}{3}
+\glossaryentry{Merge?\glossaryentryfield{merge}{\glsnamefont{Merge}}{engl. zusammenführen, Vereinigung von Branches}{\relax }|setentrycounter[]{page}\glsnumberformat}{2}
+\glossaryentry{Repository?\glossaryentryfield{Repository}{\glsnamefont{Repository}}{dt. Lager, Depot, Repositorium. enthält die Geschichte eines Projekts. Jeder Nutzer hat ein eigenes Repository mit der gesamten Geschichte}{\relax }|setentrycounter[]{page}\glsnumberformat}{4}
+\glossaryentry{Klone?\glossaryentryfield{Klone}{\glsnamefont{Klone}}{engl. kopieren}{\relax }|setentrycounter[]{page}\glsnumberformat}{4}
+\glossaryentry{Branch?\glossaryentryfield{Branch}{\glsnamefont{Branch}}{engl. Zweig. Ein Entwicklungszweig in der Geschichte}{\relax }|setentrycounter[]{page}\glsnumberformat}{4}
+\glossaryentry{Merge?\glossaryentryfield{merge}{\glsnamefont{Merge}}{engl. zusammenführen, Vereinigung von Branches}{\relax }|setentrycounter[]{page}\glsnumberformat}{4}
+\glossaryentry{Switch?\glossaryentryfield{Switch}{\glsnamefont{Switch}}{engl. wechseln}{\relax }|setentrycounter[]{page}\glsnumberformat}{4}
+\glossaryentry{Merge?\glossaryentryfield{merge}{\glsnamefont{Merge}}{engl. zusammenführen, Vereinigung von Branches}{\relax }|setentrycounter[]{page}\glsnumberformat}{5}
+\glossaryentry{Merge?\glossaryentryfield{merge}{\glsnamefont{Merge}}{engl. zusammenführen, Vereinigung von Branches}{\relax }|setentrycounter[]{page}\glsnumberformat}{5}

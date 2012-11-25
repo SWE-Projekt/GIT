@@ -3,6 +3,9 @@
 \usepackage[T1]{fontenc}
 \usepackage[utf8]{inputenc} % Kodierung
 \usepackage[ngerman]{babel} % Sprache
+\usepackage[iso]{umlaute} % wegen deutschen Umlauten
+\usepackage[utf8]{inputenc}
+\usepackage{textcomp}       % Zus�tzliche Symbolzeichen 
 \setlength{\parskip}{1.5ex plus0.5ex minus0.2ex}
 \setlength{\parindent}{0cm}
 \usepackage[]{graphicx}
@@ -34,8 +37,14 @@
 % --> makeindex -s %.ist -t %.glg -o %.gls %.glo
 % und unter -> Option -> Texmaker konfigurieren -> Makeindex Verweis aktualisieren!
 
-\newglossaryentry{merge}{name=merge,description={engl. zusammenführen}}
-
+\newglossaryentry{merge}		{name=Merge		,description={engl. zusammenführen, Vereinigung von Branches}}
+\newglossaryentry{Repository}	{name=Repository,description={dt. Lager, Depot, Repositorium. enthält die Geschichte eines Projekts. Jeder Nutzer hat ein eigenes Repository mit der gesamten Geschichte}}
+\newglossaryentry{Klone} 		{name=Klone		,description={engl. kopieren}}
+\newglossaryentry{Branch}		{name=Branch	,description={engl. Zweig. Ein Entwicklungszweig in der Geschichte}}
+\newglossaryentry{Switch}		{name=Switch	,description={engl. wechseln}}
+\newglossaryentry{Pull}			{name=Pull		,description={engl. ziehen. Lädt Objekte und Branches. Lädt somit alle Änderungen}}
+\newglossaryentry{fetch}		{name=Fetch		,description={engl. holen, holt Brachnes von fernen? Repositories}}
+\newglossaryentry{Commit}		{name=Commit	,description={engl. wechseln}}
 %-------------------------------------------------------------------------------------
 
 \begin{document}
@@ -77,11 +86,14 @@
 ...mit einem \gls{merge} kann man .....
 
 	\textbf{Sami ab hier gehts los...}
-	
+Was ist Git? Git ist ein Versionsverwaltungssystem. 	
+Der Gedanke von Git ist das sich Daten im Laufe der Zeit ändern und Git bietet die Möglichkeit
+diese Änderungen zu Verwalten und festzuhalten. (Wer hat wann was und warum geändert?)
+
 \subsection{Ziel}
 	Sami...
 	Git modellieren, mit den Modellierungsarten auseinandersetzen	
-
+\newpage	
 \section{\underline{Textuelle Beschreibung}}
 
 Git ist eine freie Software zur verteilten Versionsverwaltung von Dateien. Git hilft, wenn mehrere Programmierer an einem Projekt arbeiten, indem es verschiedene Features vereint:
@@ -102,8 +114,20 @@ Des Weiteren bietet Git ein Webinterface.
 
 \subsection{Use-Case-Modell}
 
-	Fabian...Use case Zeichnung einfügen!
-	
+\includegraphics[width=\textwidth]{Use-Case-Modell.png}	
+
+Dieses Use-Cases repräsentieren die Interaktion zwischen dem Programmierer (\textit{Aktor}) und dem Git-System (\textit{Subjekt})\\
+\\
+Der Programmierer benutzt das Git-System um ein bestimmtes Ziel zu erreichen. 
+Der Git-Server (\textit{Sekundäre Aktor}) wird von dem Git-System genutzt um eine Auswahl von Befehlen ausführen zu können.\\
+\\
+Der Programmierer repräsentiert eine Personengruppe. An einem Projekt können beliebig viele Programmierer beteiligt seien.  
+Der Admin erbt alle Fähigkeiten von dem Programmierer. Demnach kann der Admin auch alle anderen Interaktionen ausüben.  \\
+\\
+Im Use-Case sind die Möglichkeiten, Verwalte \gls{Repository}, Verwalte Rechte, \gls{Klone} Reopisitory, Bearbeite Quellecode, Erstelle \gls{Branch}, \gls{merge} Branch und \gls{Switch} Branch aufgeführt. \\
+\\
+Eine detaillierte Beschreibung der Abläufe folgt in den Use-Case-Szenarien. 
+\newpage	
 \subsubsection{Use-Case-Szenarien (Storys)}
 
 	- Happy day Szenarien und Optionale Verzweigungen (Abweichungen vom Happy Day) (Richard)
