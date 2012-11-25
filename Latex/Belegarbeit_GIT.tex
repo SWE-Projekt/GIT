@@ -7,66 +7,92 @@
 \usepackage[]{graphicx}
 \usepackage{xcolor}
 
+%---Kopf- und Fusszeile---------------------------------------------------------------
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+
+\lhead{{\footnotesize HTW Berlin}}
+\chead{}
+\rhead{{\footnotesize SWE - Belegarbeit GIT}}
+\lfoot{{\footnotesize F. Goerge, S. Ede,\\ R. Peters, J. Meise}}
+\cfoot{}
+\rfoot{\thepage}
+\renewcommand{\headrulewidth}{0.2pt}
+\renewcommand{\footrulewidth}{0.2pt}
+
 %---Glossar---------------------------------------------------------------------------
 \usepackage[urlcolor=blue,colorlinks=true,linkcolor=blue]{hyperref}
 \usepackage[toc,style=treenoname,order=word,subentrycounter]{glossaries}
 \makeglossaries
 
-
 %---Glossareinträge-------------------------------------------------------------------
-
+%Glossar update Info. -> Benutzer/in -> Eigene Befehle -> Eigene Befehle editieren
+% --> makeindex -s %.ist -t %.glg -o %.gls %.glo
+% und unter -> Option -> Texmaker konfigurieren -> Makeindex Verweis aktualisieren!
 \newglossaryentry{merge}{name=merge,description={engl. zusammenführen}}
 
-
 %-------------------------------------------------------------------------------------
+
 \begin{document}
 
+%---Deckblatt-------------------------------------------------------------------------
 \title{\textbf{{\Huge { Belegarbeit GIT \vspace{2cm}} 
 \includegraphics[width=\textwidth]{git-logo.png}
 \vspace{2cm} }}}
 \author{Fabian Goerge \\  Sami Ede \\ Richard Peters \\ Jens Meise}
 \date{\today}
 \maketitle
-\thispagestyle{empty}
+\thispagestyle{empty} %Keine Seitenzahl auf dem Deckblatt 
+
+%------------------------------------------------------------------------------------
+
 \newpage
-\setcounter{page}{1}
-\tableofcontents
+
+%---Inhaltsverzeichnis wird erzeugt--------------------------------------------------
+\setcounter{page}{1} %Inhaltsverzeichnis startet mit der Seitenzahl 1 
+\tableofcontents	 %Inhaltsverzeichnis wird erzeugt
+
+%------------------------------------------------------------------------------------
+
 \newpage
 
 \textcolor{red}
 {
 	FERTIGSTELLUNG BIS 09.12.!!!!!!!!!!! 
-	und wehe nicht!!!!!!!!!!!!!\newline
-	- PDF vollenden (gemeinsame Punkte bearbeiten)\newline
-	- Präsentation fertigstellen (16.12. / 22.12.)\newline
+	und wehe nicht!!!!!!!!!!!!!\\
+	- PDF vollenden (gemeinsame Punkte bearbeiten)\\
+	- Präsentation fertigstellen (16.12. / 22.12.)\\
 }
 
+%---Erster Punkt--------------------------------------------------------------------
 \section{\underline{Einführung und Ziel der Arbeit}}
 
 \subsection{Einführung}
 
-%Beispiel für einen Glossar Eintrag....
+%Beispiel für einen Glossar Eintrag....der oben noch definiert werden muss!
 ...mit einem \gls{merge} kann man .....
 
 	\textbf{Sami ab hier gehts los...}
+	
+%---Bsp. um Text einzurücken (optional)--------------------------------------------	
 \par
 \begingroup
 \leftskip=1,1cm 
 \noindent GIT ist ein Software zur Versionsverwaltung....
 \par
 \endgroup
+%----------------------------------------------------------------------------------
 	
 \subsection{Ziel}
 	Sami...
 	Git modellieren, mit den Modellierungsarten auseinandersetzen	
 
-
-
 \section{\underline{Textuelle Beschreibung}}
 
 Git ist eine freie Software zur verteilten Versionsverwaltung von Dateien. Git hilft, wenn mehrere Programmierer an einem Projekt arbeiten, indem es verschiedene Features vereint:
 
-  \begin{itemize}
+  \begin{itemize} %Aufzählungen
      
 \item Git ermöglicht eine nicht-lineare Entwicklung; das heißt, es ist möglich, an verschiedenen „Positionen“ des Quelltextes zu arbeiten, und diese im Nachhinein automatisch zu vereinen („mergen“).
 \item des Weiteren bietet Git die Möglichkeit eines lokalen Arbeitens. Jeder User besitzt eine lokale Kopie des kompletten Repositories (inklusive der Versionsgeschichte), so dass auch ohne Anbindung in ein Netzwerk gearbeitet werden kann. Dies ermöglicht sehr schnelles Arbeiten!
@@ -171,6 +197,7 @@ Repository: Die Projektdaten und Informationen des Git-Systems (History, Branche
 %---Glossar als subsection und "Glossar" einfügen------------------------------------------
 \setglossarysection{subsection}
 \printglossary[title={Glossar}, numberedsection]
+
 %------------------------------------------------------------------------------------------
 	 - Fachwörter werden erklärt (Repository, Branch, bla...) (Gemeinsam im Laufe der Latexerstellung) 
 	

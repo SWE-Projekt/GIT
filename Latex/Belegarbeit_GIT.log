@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.6.6)  25 NOV 2012 01:04
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.11.25)  25 NOV 2012 11:22
 entering extended mode
 **Belegarbeit_GIT.tex
 ("D:\Docs\Jens\HTW\3. Sem\SWE\Projekt - GIT\Latex\Belegarbeit_GIT.tex"
@@ -401,6 +401,17 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
+("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+\fancy@headwidth=\skip48
+\f@ncyO@elh=\skip49
+\f@ncyO@erh=\skip50
+\f@ncyO@olh=\skip51
+\f@ncyO@orh=\skip52
+\f@ncyO@elf=\skip53
+\f@ncyO@erf=\skip54
+\f@ncyO@olf=\skip55
+\f@ncyO@orf=\skip56
+)
 ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
 Package: hyperref 2012/05/13 v6.82q Hypertext links for LaTeX
 
@@ -513,7 +524,7 @@ Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
-\Hy@SectionHShift=\skip48
+\Hy@SectionHShift=\skip57
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\base\glossaries.sty"
 Package: glossaries 2012/11/18 v3.04 (NLCT)
@@ -608,7 +619,7 @@ Package: fp-eval 1995/04/03
 )))
 \@dtl@toks=\toks28
 \@dtl@tmpcount=\count126
-\dtl@tmplength=\skip49
+\dtl@tmplength=\skip58
 \dtl@sortresult=\count127
 \@dtl@numgrpsepcount=\count128
 \@dtl@datatype=\count129
@@ -618,7 +629,7 @@ Package: fp-eval 1995/04/03
 )
 \gls@level=\count133
 \@gls@tmpb=\toks29
-\gls@tmplen=\skip50
+\gls@tmplen=\skip59
 \glswrite=\write3
 \c@glossarysubentry=\count134
 \glskeylisttok=\toks30
@@ -631,16 +642,16 @@ Package: fp-eval 1995/04/03
 Package: glossary-hypernav 2007/07/04 v1.01 (NLCT)
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-list.sty"
 Package: glossary-list 2012/11/11 v3.04 (NLCT)
-\glslistdottedwidth=\skip51
+\glslistdottedwidth=\skip60
 ) ("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-long.sty"
 Package: glossary-long 2012/09/21 v3.03 (NLCT)
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip52
-\LTright=\skip53
-\LTpre=\skip54
-\LTpost=\skip55
+\LTleft=\skip61
+\LTright=\skip62
+\LTpre=\skip63
+\LTpost=\skip64
 \LTchunksize=\count135
 \LTcapwidth=\dimen125
 \LT@head=\box28
@@ -653,32 +664,32 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count139
 \LT@p@ftn=\toks34
 )
-\glsdescwidth=\skip56
-\glspagelistwidth=\skip57
+\glsdescwidth=\skip65
+\glspagelistwidth=\skip66
 )
 ("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-tree.sty"
 Package: glossary-tree 2012/09/21 v3.03 (NLCT)
-\glstreeindent=\skip58
+\glstreeindent=\skip67
 ))
 \glo@main@file=\write4
 Package glossaries Info: Writing glossary file Belegarbeit_GIT.glo on input lin
-e 13.
+e 27.
 
 ("D:\Docs\Jens\HTW\3. Sem\SWE\Projekt - GIT\Latex\Belegarbeit_GIT.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
-LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
 
 ("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -695,7 +706,7 @@ LaTeX Font Info:    ... okay on input line 22.
 \everyMPtoPDFconversion=\toks36
 )
 \AtBeginShipoutBox=\box33
-Package hyperref Info: Link coloring ON on input line 22.
+Package hyperref Info: Link coloring ON on input line 37.
  ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
@@ -704,9 +715,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count146
 )
-LaTeX Info: Redefining \ref on input line 22.
-LaTeX Info: Redefining \pageref on input line 22.
-LaTeX Info: Redefining \nameref on input line 22.
+LaTeX Info: Redefining \ref on input line 37.
+LaTeX Info: Redefining \pageref on input line 37.
+LaTeX Info: Redefining \nameref on input line 37.
 
 ("D:\Docs\Jens\HTW\3. Sem\SWE\Projekt - GIT\Latex\Belegarbeit_GIT.out")
 ("D:\Docs\Jens\HTW\3. Sem\SWE\Projekt - GIT\Latex\Belegarbeit_GIT.out")
@@ -715,196 +726,196 @@ LaTeX Info: Redefining \nameref on input line 22.
 <git-logo.png, id=51, 219.219pt x 91.542pt>
 File: git-logo.png Graphic file (type png)
  <use git-logo.png>
-Package pdftex.def Info: git-logo.png used on input line 30.
+Package pdftex.def Info: git-logo.png used on input line 46.
 (pdftex.def)             Requested size: 345.0pt x 144.08583pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 30.
+LaTeX Font Info:    Try loading font information for U+msa on input line 46.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 30.
+LaTeX Font Info:    Try loading font information for U+msb on input line 46.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 ) [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/Docs/Jens/HTW/3. Sem/S
-WE/Projekt - GIT/Latex/git-logo.png>]
+{C:/Users/Js/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/Docs/Jens/H
+TW/3. Sem/SWE/Projekt - GIT/Latex/git-logo.png>]
 ("D:\Docs\Jens\HTW\3. Sem\SWE\Projekt - GIT\Latex\Belegarbeit_GIT.toc")
 \tf@toc=\write6
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.34 \newpage
+l.58 \newpage
               [1]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 44.
+(hyperref)                removing `math shift' on input line 69.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@@underline' on input line 44.
+(hyperref)                removing `\@@underline' on input line 69.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 44.
+(hyperref)                removing `\hbox' on input line 69.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathsurround' on input line 44.
+(hyperref)                removing `\mathsurround' on input line 69.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 44.
+(hyperref)                removing `\z@' on input line 69.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 44.
+(hyperref)                removing `math shift' on input line 69.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 65.
+(hyperref)                removing `math shift' on input line 91.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@@underline' on input line 65.
+(hyperref)                removing `\@@underline' on input line 91.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 65.
+(hyperref)                removing `\hbox' on input line 91.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathsurround' on input line 65.
+(hyperref)                removing `\mathsurround' on input line 91.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 65.
+(hyperref)                removing `\z@' on input line 91.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 65.
+(hyperref)                removing `math shift' on input line 91.
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 71.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 97.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\base\omscmr.fd"
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 71.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 97.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 81.
+(hyperref)                removing `math shift' on input line 107.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@@underline' on input line 81.
+(hyperref)                removing `\@@underline' on input line 107.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 81.
+(hyperref)                removing `\hbox' on input line 107.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathsurround' on input line 81.
+(hyperref)                removing `\mathsurround' on input line 107.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 81.
+(hyperref)                removing `\z@' on input line 107.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 81.
+(hyperref)                removing `math shift' on input line 107.
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 93--102
+Underfull \hbox (badness 10000) in paragraph at lines 119--128
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--102
+Underfull \hbox (badness 10000) in paragraph at lines 119--128
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--102
+Underfull \hbox (badness 10000) in paragraph at lines 119--128
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--159
+Underfull \hbox (badness 10000) in paragraph at lines 129--185
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--159
+Underfull \hbox (badness 10000) in paragraph at lines 129--185
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--159
+Underfull \hbox (badness 10000) in paragraph at lines 129--185
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--159
+Underfull \hbox (badness 10000) in paragraph at lines 129--185
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--159
+Underfull \hbox (badness 10000) in paragraph at lines 129--185
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--159
+Underfull \hbox (badness 10000) in paragraph at lines 129--185
 
  []
 
 
-Overfull \hbox (10.94086pt too wide) in paragraph at lines 103--159
+Overfull \hbox (10.94086pt too wide) in paragraph at lines 129--185
 \T1/cmr/m/n/10 Kurzbeschreibung: Der ak-tu-el-le Branch auf dem Rech-ner wird g
 e-wech-selt (switch`) 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--159
+Underfull \hbox (badness 10000) in paragraph at lines 129--185
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--159
+Underfull \hbox (badness 10000) in paragraph at lines 129--185
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--159
+Underfull \hbox (badness 10000) in paragraph at lines 129--185
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--159
+Underfull \hbox (badness 10000) in paragraph at lines 129--185
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--159
+Underfull \hbox (badness 10000) in paragraph at lines 129--185
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--159
+Underfull \hbox (badness 10000) in paragraph at lines 129--185
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--159
+Underfull \hbox (badness 10000) in paragraph at lines 129--185
 
  []
 
 [3] [4]
-Overfull \hbox (3.73428pt too wide) in paragraph at lines 160--161
+Overfull \hbox (3.73428pt too wide) in paragraph at lines 186--187
 []\T1/cmr/m/n/10 Repository: Die Pro-jekt-da-ten und In-for-ma-tio-nen des Git-
 Systems (His-to-ry, Bran-
  []
@@ -912,81 +923,82 @@ Systems (His-to-ry, Bran-
 ("D:\Docs\Jens\HTW\3. Sem\SWE\Projekt - GIT\Latex\Belegarbeit_GIT.gls")
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 177.
+(hyperref)                removing `math shift' on input line 204.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@@underline' on input line 177.
+(hyperref)                removing `\@@underline' on input line 204.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 177.
+(hyperref)                removing `\hbox' on input line 204.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathsurround' on input line 177.
+(hyperref)                removing `\mathsurround' on input line 204.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 177.
+(hyperref)                removing `\z@' on input line 204.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 177.
+(hyperref)                removing `math shift' on input line 204.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 183.
+(hyperref)                removing `math shift' on input line 210.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@@underline' on input line 183.
+(hyperref)                removing `\@@underline' on input line 210.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 183.
+(hyperref)                removing `\hbox' on input line 210.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathsurround' on input line 183.
+(hyperref)                removing `\mathsurround' on input line 210.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 183.
+(hyperref)                removing `\z@' on input line 210.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 183.
+(hyperref)                removing `math shift' on input line 210.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 189.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 216.
 [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 189.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 216.
  ("D:\Docs\Jens\HTW\3. Sem\SWE\Projekt - GIT\Latex\Belegarbeit_GIT.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 189.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 189.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 216.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 216.
 Package rerunfilecheck Info: File `Belegarbeit_GIT.out' has not changed.
 (rerunfilecheck)             Checksum: 6E269D7DE2CEE9FF717B85BEFACA0450;772.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 189.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 216.
  ) 
 Here is how much of TeX's memory you used:
- 10008 strings out of 494045
- 136979 string characters out of 3148397
- 268831 words of memory out of 3000000
- 13088 multiletter control sequences out of 15000+200000
- 18470 words of font info for 55 fonts, out of 3000000 for 9000
+ 10136 strings out of 494045
+ 138331 string characters out of 3148395
+ 272902 words of memory out of 3000000
+ 13211 multiletter control sequences out of 15000+200000
+ 19234 words of font info for 56 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 46i,6n,35p,1466b,418s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,11n,43p,1466b,420s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Js\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecb
 x1200.pk> <C:\Users\Js\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi
 600\ecrm1000.pk> <C:\Users\Js\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen
 \ec\dpi600\ecbx1000.pk> <C:\Users\Js\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\j
 knappen\ec\dpi600\ecbx1440.pk> <C:\Users\Js\AppData\Local\MiKTeX\2.9\fonts\pk\l
-jfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\Js\AppData\Local\MiKTeX\2.9\fon
-ts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Belegarbeit_GIT.pdf (6 pages, 122035 bytes).
+jfour\jknappen\ec\dpi600\ecrm0800.pk> <C:\Users\Js\AppData\Local\MiKTeX\2.9\fon
+ts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\Js\AppData\Local\MiKTeX\
+2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Belegarbeit_GIT.pdf (6 pages, 131511 bytes).
 PDF statistics:
- 367 PDF objects out of 1000 (max. 8388607)
+ 399 PDF objects out of 1000 (max. 8388607)
  21 named destinations out of 1000 (max. 500000)
  102 words of extra memory for PDF output out of 10000 (max. 10000000)
 
