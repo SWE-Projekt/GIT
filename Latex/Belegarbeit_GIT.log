@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2012.11.25)  25 NOV 2012 16:06
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.11.26)  26 NOV 2012 11:47
 entering extended mode
 **Belegarbeit_GIT.tex
-("C:\Users\Fabian G\Documents\IgitSWE\Latex\Belegarbeit_GIT.tex"
+("D:\Programme\SmartGit 3\bin\GIT\Latex\Belegarbeit_GIT.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -13,9 +13,9 @@ an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese,
 romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
 sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
 senglishmax, welsh, loaded.
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+(D:\Programme\Miktex\tex\latex\base\article.cls
 Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+(D:\Programme\Miktex\tex\latex\base\size10.clo
 File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -30,29 +30,29 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\german\ngerman.sty" v2.5e 1998-07-08
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\german\ngerman.sty
+v2.5e 1998-07-08
 Package: ngerman 1998/07/08 v2.5e Support for writing german texts (br)
 \grmnU@D=\dimen103
 ngerman -- \language number for naustrian undefined, default 44 used.
-)
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+) (D:\Programme\Miktex\tex\latex\ams\math\amsmath.sty
 Package: amsmath 2000/07/18 v2.13 AMS math features
 \@mathmargin=\skip43
 
 For additional information on amsmath, use the `?' option.
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+(D:\Programme\Miktex\tex\latex\ams\math\amstext.sty
 Package: amstext 2000/06/29 v2.01
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+(D:\Programme\Miktex\tex\latex\ams\math\amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0
 \@emptytoks=\toks14
 \ex@=\dimen104
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+(D:\Programme\Miktex\tex\latex\ams\math\amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d
 \pmbraise@=\dimen105
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+(D:\Programme\Miktex\tex\latex\ams\math\amsopn.sty
 Package: amsopn 1999/12/14 v2.01 operator names
 )
 \inf@bad=\count87
@@ -93,24 +93,24 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+(D:\Programme\Miktex\tex\latex\amsfonts\amssymb.sty
 Package: amssymb 2009/06/22 v3.00
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+(D:\Programme\Miktex\tex\latex\amsfonts\amsfonts.sty
 Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\bbm\bbm.sty"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\bbm\bbm.sty
 Package: bbm 1999/03/15 V 1.2 provides fonts for set symbols - TH
 LaTeX Font Info:    Overwriting math alphabet `\mathbbm' in version `bold'
 (Font)                  U/bbm/m/n --> U/bbm/bx/n on input line 33.
 LaTeX Font Info:    Overwriting math alphabet `\mathbbmss' in version `bold'
 (Font)                  U/bbmss/m/n --> U/bbmss/bx/n on input line 35.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+(D:\Programme\Miktex\tex\latex\tools\array.sty
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen113
 \extrarowheight=\dimen114
@@ -118,7 +118,7 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \extratabsurround=\skip46
 \backup@length=\skip47
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
+(D:\Programme\Miktex\tex\latex\tools\tabularx.sty
 Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
 \TX@col@width=\dimen115
 \TX@old@table=\dimen116
@@ -128,26 +128,26 @@ Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
 \TX@cols=\count99
 \TX@ftn=\toks20
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+(D:\Programme\Miktex\tex\latex\base\fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+(D:\Programme\Miktex\tex\latex\base\t1enc.def
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+(D:\Programme\Miktex\tex\latex\base\inputenc.sty
 Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks21
 \inpenc@posthook=\toks22
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+(D:\Programme\Miktex\tex\latex\base\utf8.def
 File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+(D:\Programme\Miktex\tex\latex\base\t1enc.dfu
 File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -297,7 +297,7 @@ File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+(D:\Programme\Miktex\tex\latex\base\ot1enc.dfu
 File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A1 (decimal 161)
    defining Unicode char U+00A3 (decimal 163)
@@ -328,7 +328,7 @@ File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+(D:\Programme\Miktex\tex\latex\base\omsenc.dfu
 File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -352,31 +352,24 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+(D:\Programme\Miktex\tex\generic\babel\babel.sty
 Package: babel 2008/07/08 v3.8m The Babel package
 
 *************************************
 * Local config file bblopts.cfg used
 *
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+(D:\Programme\Miktex\tex\latex\00miktex\bblopts.cfg
 File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\ngermanb.ldf"
+(D:\Programme\Miktex\tex\generic\babel\ngermanb.ldf
 Language: ngermanb 2008/07/06 v2.6n new German support from the babel system
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+(D:\Programme\Miktex\tex\generic\babel\babel.def
 File: babel.def 2008/07/08 v3.8m Babel common definitions
 \babel@savecnt=\count100
 \U@D=\dimen120
 )))
-("C:\Program Files\MiKTeX 2.9\tex\latex\umlaute\umlaute.sty"
-Package: umlaute 2006/01/29 v2.1 umlaute package (AS)
-
-
-Package umlaute Warning: This package has been superseeded by the `inputenc' pa
-ckage on input line 32.
-
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+(D:\Programme\Miktex\tex\latex\base\textcomp.sty
 Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
 (textcomp)               5 = only ISO-Adobe without \textcurrency
@@ -391,12 +384,12 @@ Package textcomp Info: Sub-encoding information:
 (textcomp)             See the documentation for details.
 Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+(D:\Programme\Miktex\tex\latex\base\ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 Now handling font encoding TS1 ...
 ... processing UTF-8 mapping file for font encoding TS1
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
+(D:\Programme\Miktex\tex\latex\base\ts1enc.dfu
 File: ts1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
    defining Unicode char U+00A2 (decimal 162)
    defining Unicode char U+00A3 (decimal 163)
@@ -531,31 +524,31 @@ Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
 Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
 Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+(D:\Programme\Miktex\tex\latex\graphics\graphicx.sty
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+(D:\Programme\Miktex\tex\latex\graphics\keyval.sty
 Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
 \KV@toks@=\toks23
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+(D:\Programme\Miktex\tex\latex\graphics\graphics.sty
 Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+(D:\Programme\Miktex\tex\latex\graphics\trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+(D:\Programme\Miktex\tex\latex\00miktex\graphics.cfg
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: pdftex.def on input line 91.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+(D:\Programme\Miktex\tex\latex\pdftex-def\pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+(D:\Programme\Miktex\tex\generic\oberdiek\infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+(D:\Programme\Miktex\tex\generic\oberdiek\ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count101
@@ -563,10 +556,10 @@ Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen121
 \Gin@req@width=\dimen122
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+(D:\Programme\Miktex\tex\latex\00miktex\color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
@@ -580,18 +573,18 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+(D:\Programme\Miktex\tex\latex\geometry\geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+(D:\Programme\Miktex\tex\generic\oberdiek\ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is detected.
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+(D:\Programme\Miktex\tex\generic\oberdiek\ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+(D:\Programme\Miktex\tex\generic\ifxetex\ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count102
@@ -607,8 +600,8 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen130
 \Gm@dimlist=\toks24
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
-("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+(D:\Programme\Miktex\tex\latex\geometry\geometry.cfg))
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
 \fancy@headwidth=\skip48
 \f@ncyO@elh=\skip49
 \f@ncyO@erh=\skip50
@@ -619,14 +612,14 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \f@ncyO@olf=\skip55
 \f@ncyO@orf=\skip56
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+(D:\Programme\Miktex\tex\latex\hyperref\hyperref.sty
 Package: hyperref 2012/05/13 v6.82q Hypertext links for LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+(D:\Programme\Miktex\tex\generic\oberdiek\hobsub-hyperref.sty
 Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
 
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+(D:\Programme\Miktex\tex\generic\oberdiek\hobsub-generic.sty
 Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -665,21 +658,21 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+(D:\Programme\Miktex\tex\latex\oberdiek\kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 )
 \@linkdim=\dimen131
 \Hy@linkcounter=\count105
 \Hy@pagecounter=\count106
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+(D:\Programme\Miktex\tex\latex\hyperref\pd1enc.def
 File: pd1enc.def 2012/05/13 v6.82q Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 \Hy@SavedSpaceFactor=\count107
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+(D:\Programme\Miktex\tex\latex\00miktex\hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 3941.
@@ -692,7 +685,7 @@ Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4300.
 \c@Hy@tempcnt=\count108
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+(D:\Programme\Miktex\tex\latex\ltxmisc\url.sty
 \Urlmuskip=\muskip11
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
@@ -716,40 +709,40 @@ LaTeX Info: Redefining \pageref on input line 5847.
 
 Package hyperref Message: Driver (autodetected): hpdftex.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+(D:\Programme\Miktex\tex\latex\hyperref\hpdftex.def
 File: hpdftex.def 2012/05/13 v6.82q Hyperref driver for pdfTeX
 \Fld@listcount=\count113
 \c@bookmark@seq@number=\count114
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+(D:\Programme\Miktex\tex\latex\oberdiek\rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip57
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\base\glossaries.sty"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\base\glossaries.
+sty
 Package: glossaries 2012/11/18 v3.04 (NLCT)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+ (D:\Programme\Miktex\tex\latex\base\ifthen.sty
 Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+(D:\Programme\Miktex\tex\latex\xkeyval\xkeyval.sty
 Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+(D:\Programme\Miktex\tex\generic\xkeyval\xkeyval.tex
 \XKV@toks=\toks25
 \XKV@tempa@toks=\toks26
 \XKV@depth=\count115
 File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\base\mfirstuc.sty"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\base\mfirstuc.st
+y
 Package: mfirstuc 2012/05/21 v1.06 (NLCT)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+ (C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
 Package: etoolbox 2011/01/03 v2.1 e-TeX tools for LaTeX
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\misc\etex.sty"
+(D:\Programme\Miktex\tex\latex\misc\etex.sty
 Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
 \et@xins=\count116
 )
@@ -758,28 +751,28 @@ Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
 \@glsmfirst=\toks27
 \@glsmrest=\toks28
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\xfor\xfor.sty"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\xfor\xfor.sty
 Package: xfor 2009/02/05 v1.05 (NLCT)
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\datatool\datatool-base.sty"
+(D:\Programme\Miktex\tex\latex\datatool\datatool-base.sty
 Package: datatool-base 2012/10/06 v2.12 (NLCT)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\substr\substr.sty"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\substr\substr.sty
 Package: substr 2009/10/20 v1.2 Handle substrings
 \c@su@anzahl=\count118
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\datatool\datatool-fp.sty"
+(D:\Programme\Miktex\tex\latex\datatool\datatool-fp.sty
 Package: datatool-fp 2012/09/25 v2.11 (NLCT)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp.sty"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp.sty
 Package: fp 1995/04/02
 
 `Fixed Point Package', Version 0.8, April 2, 1995 (C) Michael Mehlich
-("C:\Program Files\MiKTeX 2.9\tex\latex\fp\defpattern.sty"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\defpattern.sty
 Package: defpattern 1994/10/12
 \actioncount=\count119
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-basic.sty"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-basic.sty
 Package: fp-basic 1996/05/13
 \FP@xs=\count120
 \FP@xia=\count121
@@ -791,32 +784,32 @@ Package: fp-basic 1996/05/13
 \FP@regs=\count127
 \FP@times=\count128
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-addons.sty"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-addons.sty
 Package: fp-addons 1995/03/15
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-snap.sty"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-snap.sty
 Package: fp-snap 1995/04/05
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-exp.sty"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-exp.sty
 Package: fp-exp 1995/04/03
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-trigo.sty"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-trigo.sty
 Package: fp-trigo 1995/04/14
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-pas.sty"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-pas.sty
 Package: fp-pas 1994/08/29
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-random.sty"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-random.sty
 Package: fp-random 1995/02/23
 \FPseed=\count129
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-eqn.sty"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-eqn.sty
 Package: fp-eqn 1995/04/03
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-upn.sty"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-upn.sty
 Package: fp-upn 1996/10/21
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\fp\fp-eval.sty"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\fp\fp-eval.sty
 Package: fp-eval 1995/04/03
 )))
 \@dtl@toks=\toks29
@@ -829,11 +822,12 @@ Package: fp-eval 1995/04/03
 \dtl@codeB=\count135
 \@dtl@foreach@level=\count136
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\translator.sty"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\base\translator\tran
+slator.sty
 Package: translator 2010/06/12 ver 1.10
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\base\translator\translator-langu
-age-mappings.tex"))
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\base\translator\tran
+slator-language-mappings.tex))
 \gls@level=\count137
 \@gls@tmpb=\toks30
 \gls@tmplen=\skip59
@@ -844,16 +838,19 @@ age-mappings.tex"))
 \glsshorttok=\toks33
 \glslongtok=\toks34
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-hypernav.sty
-"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\styles\glossary-
+hypernav.sty
 Package: glossary-hypernav 2007/07/04 v1.01 (NLCT)
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-list.sty"
+)
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\styles\glossary-
+list.sty
 Package: glossary-list 2012/11/11 v3.04 (NLCT)
 \glslistdottedwidth=\skip60
-) ("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-long.sty"
+)
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\styles\glossary-
+long.sty
 Package: glossary-long 2012/09/21 v3.03 (NLCT)
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+ (D:\Programme\Miktex\tex\latex\tools\longtable.sty
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip61
 \LTright=\skip62
@@ -874,10 +871,12 @@ Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
 \glsdescwidth=\skip65
 \glspagelistwidth=\skip66
 )
-("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-super.sty"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\styles\glossary-
+super.sty
 Package: glossary-super 2012/09/21 v3.03 (NLCT)
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\supertabular\supertabular.sty"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\supertabular\supertabular.s
+ty
 Package: supertabular 2004/02/20 v4.1e the supertabular environment
 \c@tracingst=\count144
 \ST@wd=\dimen135
@@ -896,38 +895,38 @@ Package: supertabular 2004/02/20 v4.1e the supertabular environment
 \ST@dimen=\dimen145
 \ST@pbox=\box32
 ))
-("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\styles\glossary-tree.sty"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\styles\glossary-
+tree.sty
 Package: glossary-tree 2012/09/21 v3.03 (NLCT)
 \glstreeindent=\skip70
 ))
 \glo@main@file=\write4
 Package glossaries Info: Writing glossary file Belegarbeit_GIT.glo on input lin
-e 33.
+e 32.
+ ("D:\Programme\SmartGit 3\bin\GIT\Latex\Belegarbeit_GIT.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 49.
 
-("C:\Users\Fabian G\Documents\IgitSWE\Latex\Belegarbeit_GIT.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 50.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 50.
-
-("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+(D:\Programme\Miktex\tex\latex\base\ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
 
-("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count145
 \scratchdimen=\dimen146
@@ -976,310 +975,310 @@ LaTeX Font Info:    ... okay on input line 50.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box34
-Package hyperref Info: Link coloring ON on input line 50.
-("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package hyperref Info: Link coloring ON on input line 49.
+(D:\Programme\Miktex\tex\latex\hyperref\nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
-("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+(D:\Programme\Miktex\tex\generic\oberdiek\gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count151
 )
-LaTeX Info: Redefining \ref on input line 50.
-LaTeX Info: Redefining \pageref on input line 50.
-LaTeX Info: Redefining \nameref on input line 50.
+LaTeX Info: Redefining \ref on input line 49.
+LaTeX Info: Redefining \pageref on input line 49.
+LaTeX Info: Redefining \nameref on input line 49.
 
-("C:\Users\Fabian G\Documents\IgitSWE\Latex\Belegarbeit_GIT.out")
-("C:\Users\Fabian G\Documents\IgitSWE\Latex\Belegarbeit_GIT.out")
+("D:\Programme\SmartGit 3\bin\GIT\Latex\Belegarbeit_GIT.out")
+("D:\Programme\SmartGit 3\bin\GIT\Latex\Belegarbeit_GIT.out")
 \@outlinefile=\write5
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\glossaries\dict\glossaries-dictionary-E
-nglish.dict"
+(C:\Users\Sami\AppData\Roaming\MiKTeX\2.9\tex\latex\glossaries\dict\glossaries-
+dictionary-English.dict
 Dictionary: glossaries-dictionary, Language: English 
 ) <git-logo.png, id=51, 219.219pt x 91.542pt>
 File: git-logo.png Graphic file (type png)
- <use git-logo.png>
-Package pdftex.def Info: git-logo.png used on input line 59.
-(pdftex.def)             Requested size: 441.01773pt x 184.18704pt.
-LaTeX Font Info:    Try loading font information for U+msa on input line 59.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+<use git-logo.png>
+Package pdftex.def Info: git-logo.png used on input line 58.
+(pdftex.def)             Requested size: 441.01773pt x 184.18704pt.
+LaTeX Font Info:    Try loading font information for U+msa on input line 58.
+ (D:\Programme\Miktex\tex\latex\amsfonts\umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 59.
+LaTeX Font Info:    Try loading font information for U+msb on input line 58.
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+(D:\Programme\Miktex\tex\latex\amsfonts\umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 ) [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Fabian G/Documen
-ts/IgitSWE/Latex/git-logo.png>] ("C:\Users\Fabian G\Documents\IgitSWE\Latex\Bel
-egarbeit_GIT.toc")
+{C:/Users/Sami/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <D:/Programme
+/SmartGit 3/bin/GIT/Latex/git-logo.png>] ("D:\Programme\SmartGit 3\bin\GIT\Late
+x\Belegarbeit_GIT.toc")
 \tf@toc=\write6
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.71 \newpage
+l.70 \newpage
               [1]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 81.
+(hyperref)                removing `math shift' on input line 80.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@@underline' on input line 81.
+(hyperref)                removing `\@@underline' on input line 80.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 81.
+(hyperref)                removing `\hbox' on input line 80.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathsurround' on input line 81.
+(hyperref)                removing `\mathsurround' on input line 80.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 81.
+(hyperref)                removing `\z@' on input line 80.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 81.
+(hyperref)                removing `math shift' on input line 80.
 
 [2]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 97.
+(hyperref)                removing `math shift' on input line 96.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@@underline' on input line 97.
+(hyperref)                removing `\@@underline' on input line 96.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 97.
+(hyperref)                removing `\hbox' on input line 96.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathsurround' on input line 97.
+(hyperref)                removing `\mathsurround' on input line 96.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 97.
+(hyperref)                removing `\z@' on input line 96.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 97.
+(hyperref)                removing `math shift' on input line 96.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 113.
+(hyperref)                removing `math shift' on input line 112.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@@underline' on input line 113.
+(hyperref)                removing `\@@underline' on input line 112.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 113.
+(hyperref)                removing `\hbox' on input line 112.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathsurround' on input line 113.
+(hyperref)                removing `\mathsurround' on input line 112.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 113.
+(hyperref)                removing `\z@' on input line 112.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 113.
+(hyperref)                removing `math shift' on input line 112.
 
 <Use-Case-Modell.png, id=88, 657.95813pt x 627.84563pt>
 File: Use-Case-Modell.png Graphic file (type png)
 
 <use Use-Case-Modell.png>
-Package pdftex.def Info: Use-Case-Modell.png used on input line 117.
+Package pdftex.def Info: Use-Case-Modell.png used on input line 116.
 (pdftex.def)             Requested size: 441.01773pt x 420.84598pt.
  [3]
-Underfull \hbox (badness 10000) in paragraph at lines 119--130
+Underfull \hbox (badness 10000) in paragraph at lines 118--129
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--130
+Underfull \hbox (badness 10000) in paragraph at lines 118--129
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--130
+Underfull \hbox (badness 10000) in paragraph at lines 118--129
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--130
+Underfull \hbox (badness 10000) in paragraph at lines 118--129
 
  []
 
-[4 <C:/Users/Fabian G/Documents/IgitSWE/Latex/Use-Case-Modell.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 137--146
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 137--146
+[4 <D:/Programme/SmartGit 3/bin/GIT/Latex/Use-Case-Modell.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 136--145
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--146
+Underfull \hbox (badness 10000) in paragraph at lines 136--145
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--203
+Underfull \hbox (badness 10000) in paragraph at lines 136--145
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--203
+Underfull \hbox (badness 10000) in paragraph at lines 146--202
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--203
+Underfull \hbox (badness 10000) in paragraph at lines 146--202
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--203
+Underfull \hbox (badness 10000) in paragraph at lines 146--202
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--203
+Underfull \hbox (badness 10000) in paragraph at lines 146--202
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--203
+Underfull \hbox (badness 10000) in paragraph at lines 146--202
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--203
+Underfull \hbox (badness 10000) in paragraph at lines 146--202
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--203
+Underfull \hbox (badness 10000) in paragraph at lines 146--202
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--203
+Underfull \hbox (badness 10000) in paragraph at lines 146--202
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--203
+Underfull \hbox (badness 10000) in paragraph at lines 146--202
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--203
+Underfull \hbox (badness 10000) in paragraph at lines 146--202
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--203
+Underfull \hbox (badness 10000) in paragraph at lines 146--202
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--203
+Underfull \hbox (badness 10000) in paragraph at lines 146--202
 
  []
 
-[5] ("C:\Users\Fabian G\Documents\IgitSWE\Latex\Belegarbeit_GIT.gls" [6])
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--202
+
+ []
+
+[5] ("D:\Programme\SmartGit 3\bin\GIT\Latex\Belegarbeit_GIT.gls" [6])
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 222.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@@underline' on input line 222.
+(hyperref)                removing `math shift' on input line 221.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 222.
+(hyperref)                removing `\@@underline' on input line 221.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathsurround' on input line 222.
+(hyperref)                removing `\hbox' on input line 221.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 222.
+(hyperref)                removing `\mathsurround' on input line 221.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 222.
+(hyperref)                removing `\z@' on input line 221.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 228.
+(hyperref)                removing `math shift' on input line 221.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@@underline' on input line 228.
+(hyperref)                removing `math shift' on input line 227.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 228.
+(hyperref)                removing `\@@underline' on input line 227.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathsurround' on input line 228.
+(hyperref)                removing `\hbox' on input line 227.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 228.
+(hyperref)                removing `\mathsurround' on input line 227.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 228.
+(hyperref)                removing `\z@' on input line 227.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 234.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 227.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 233.
 [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 234.
- ("C:\Users\Fabian G\Documents\IgitSWE\Latex\Belegarbeit_GIT.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 234.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 234.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 233.
+ ("D:\Programme\SmartGit 3\bin\GIT\Latex\Belegarbeit_GIT.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 233.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 233.
 Package rerunfilecheck Info: File `Belegarbeit_GIT.out' has not changed.
 (rerunfilecheck)             Checksum: 6E269D7DE2CEE9FF717B85BEFACA0450;772.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 234.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 233.
  ) 
 Here is how much of TeX's memory you used:
- 11708 strings out of 494045
- 162312 string characters out of 3148377
- 303316 words of memory out of 3000000
- 14720 multiletter control sequences out of 15000+200000
+ 11688 strings out of 494045
+ 161848 string characters out of 3151613
+ 303254 words of memory out of 3000000
+ 14704 multiletter control sequences out of 15000+200000
  20255 words of font info for 58 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  46i,12n,43p,1466b,508s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Fabian G\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi6
-00\ecti1000.pk> <C:\Users\Fabian G\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkn
-appen\ec\dpi600\tcrm1000.pk> <C:\Users\Fabian G\AppData\Local\MiKTeX\2.9\fonts\
-pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\Fabian G\AppData\Local\MiKT
-eX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\Fabian G\AppDa
-ta\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\F
-abian G\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk
-> <C:\Users\Fabian G\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi60
-0\ecrm0800.pk> <C:\Users\Fabian G\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jkna
-ppen\ec\dpi600\ecrm1200.pk> <C:\Users\Fabian G\AppData\Local\MiKTeX\2.9\fonts\p
-k\ljfour\jknappen\ec\dpi600\ecbx2488.pk>
-Output written on Belegarbeit_GIT.pdf (8 pages, 202261 bytes).
+ <C:\Users\Sami\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
+cti1000.pk> <C:\Users\Sami\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
+\dpi600\tcrm1000.pk> <C:\Users\Sami\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jk
+nappen\ec\dpi600\ecbx1200.pk> <C:\Users\Sami\AppData\Local\MiKTeX\2.9\fonts\pk\
+ljfour\jknappen\ec\dpi600\ecrm1000.pk> <C:\Users\Sami\AppData\Local\MiKTeX\2.9\
+fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk> <C:\Users\Sami\AppData\Local\Mi
+KTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\Sami\AppData
+\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk> <C:\Users\Sam
+i\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\
+Users\Sami\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488
+.pk>
+Output written on Belegarbeit_GIT.pdf (8 pages, 202303 bytes).
 PDF statistics:
  447 PDF objects out of 1000 (max. 8388607)
  27 named destinations out of 1000 (max. 500000)
