@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.11.26)  26 NOV 2012 11:47
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2012.11.26)  28 NOV 2012 10:54
 entering extended mode
 **Belegarbeit_GIT.tex
 ("D:\Programme\SmartGit 3\bin\GIT\Latex\Belegarbeit_GIT.tex"
@@ -1200,7 +1200,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 146--202
 
  []
 
-[5] ("D:\Programme\SmartGit 3\bin\GIT\Latex\Belegarbeit_GIT.gls" [6])
+[5] [6] [7] [8] ("D:\Programme\SmartGit 3\bin\GIT\Latex\Belegarbeit_GIT.gls")
+[9]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 221.
@@ -1227,46 +1228,46 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 227.
+(hyperref)                removing `math shift' on input line 226.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\@@underline' on input line 227.
+(hyperref)                removing `\@@underline' on input line 226.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\hbox' on input line 227.
+(hyperref)                removing `\hbox' on input line 226.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\mathsurround' on input line 227.
+(hyperref)                removing `\mathsurround' on input line 226.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\z@' on input line 227.
+(hyperref)                removing `\z@' on input line 226.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 227.
+(hyperref)                removing `math shift' on input line 226.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 233.
-[7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 233.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 232.
+[10]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 232.
  ("D:\Programme\SmartGit 3\bin\GIT\Latex\Belegarbeit_GIT.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 233.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 233.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 232.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 232.
 Package rerunfilecheck Info: File `Belegarbeit_GIT.out' has not changed.
 (rerunfilecheck)             Checksum: 6E269D7DE2CEE9FF717B85BEFACA0450;772.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 233.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 232.
  ) 
 Here is how much of TeX's memory you used:
- 11688 strings out of 494045
- 161848 string characters out of 3151613
+ 11691 strings out of 494045
+ 161867 string characters out of 3151613
  303254 words of memory out of 3000000
  14704 multiletter control sequences out of 15000+200000
  20255 words of font info for 58 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 46i,12n,43p,1466b,508s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,12n,43p,1466b,434s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Sami\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
 cti1000.pk> <C:\Users\Sami\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec
 \dpi600\tcrm1000.pk> <C:\Users\Sami\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jk
@@ -1278,9 +1279,9 @@ KTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\Sami\AppData
 i\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\
 Users\Sami\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488
 .pk>
-Output written on Belegarbeit_GIT.pdf (8 pages, 202303 bytes).
+Output written on Belegarbeit_GIT.pdf (11 pages, 204978 bytes).
 PDF statistics:
- 447 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 500000)
+ 460 PDF objects out of 1000 (max. 8388607)
+ 30 named destinations out of 1000 (max. 500000)
  107 words of extra memory for PDF output out of 10000 (max. 10000000)
 
